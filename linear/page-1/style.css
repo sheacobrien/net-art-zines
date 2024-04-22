@@ -44,9 +44,21 @@
     width: 45%;
     background-image: url(../images/mouth.png);
     background-size: cover;
-    opacity: 60%;
+    opacity: 70%;
 }
 
 h1{
     text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+margin-top: -2.5%;
+padding-left: 3%;
+padding-right: 3%;
+color: rgb(255, 255, 255);
 }

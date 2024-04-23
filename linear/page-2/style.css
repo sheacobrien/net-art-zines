@@ -159,14 +159,34 @@
 }
 
 h3{
-    font-size: 25;
+    font-size: 20;
     padding-left: 7%;
     padding-bottom: -6%;
+    font-family: 'JejuHallasan';
+font-weight: normal;
+font-style: normal;
 }
 
+
 p{
-    font-size: 45;
-    padding-left: 5%;
+    background-color: rgba(213, 177, 213, 0.6);
+    font-size: 24;
+    text-align: center;
+    margin-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    line-height: 140%;
+    font-family: 'JejuHallasan';
+font-weight: normal;
+font-style: normal;
+}
+
+p2{
+    font-size: 48;
+    padding-left: 4%;
     margin-top: -1.5%;
     padding-right: 3%;
+    font-family: 'JejuHallasan';
+font-weight: normal;
+font-style: normal;
 }

@@ -50,10 +50,19 @@
 h1{
     text-align: center;
     color: rgb(255, 255, 255);
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
 }
 
 h2{
     text-align: center;
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
 }
 
 p{
@@ -61,4 +70,7 @@ margin-top: -2.5%;
 padding-left: 3%;
 padding-right: 3%;
 color: rgb(255, 255, 255);
+font-family: 'JejuHallasan';
+font-weight: normal;
+font-style: normal;
 }

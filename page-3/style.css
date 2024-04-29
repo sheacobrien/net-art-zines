@@ -37,6 +37,10 @@
 
 .left-page{
     width: 45%;
+    width: 45%;
+    background-image: url(../images/mouth.png);
+    background-size: cover;
+    opacity: 70%;
    
 }
 
@@ -51,6 +55,22 @@ h1{
 
 .right-page{
     width: 35%;
-    background-image: url(../images/addidas-1.png);
-    background-size: cover;
 }
+
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+    margin-top: -2.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: rgb(255, 255, 255);
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
+    }

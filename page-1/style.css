@@ -44,9 +44,8 @@
 
 .right-page{
     width: 45%;
-    background-image: url(../images/mouth.png);
-    background-size: cover;
-    opacity: 70%;
+    background-color: rgba(213, 177, 213, 0.6)
+
 }
 
 h1{
@@ -65,6 +64,7 @@ h2{
     font-family: 'JejuHallasan';
     font-weight: normal;
     font-style: normal;
+    font-size: 40px;
 }
 
 p{
@@ -78,6 +78,6 @@ font-style: normal;
 }
 
 img{
-    margin-left: 70px;
-    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 80px;
 }

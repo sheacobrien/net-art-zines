@@ -47,3 +47,10 @@
 h1{
     text-align: center;
 }
+
+
+.right-page{
+    width: 35%;
+    background-image: url(../images/addidas-1.png);
+    background-size: cover;
+}

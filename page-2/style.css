@@ -37,11 +37,13 @@
 
 .left-page{
     width: 45%;
+    background-color: rgba(213, 177, 213, 0.6)
    
 }
 
 .right-page{
     width: 45%;
+    background-color: rgba(213, 177, 213, 0.6)s
 }
 
 
@@ -169,7 +171,6 @@ font-style: normal;
 
 
 p{
-    background-color: rgba(213, 177, 213, 0.6);
     font-size: 24;
     text-align: center;
     margin-top: 1%;

@@ -154,9 +154,8 @@ p{
     padding-left: 3%;
     padding-right: 3%;
     line-height: 140%;
-    font-family: 'JejuHallasan';
-    font-weight: normal;
-    font-style: normal;
+    font-family: "Arima", system-ui;
+
 }
 
 p2{
@@ -164,7 +163,6 @@ p2{
     padding-left: 4%;
     margin-top: -1.5%;
     padding-right: 3%;
-    font-family: 'JejuHallasan';
-font-weight: normal;
-font-style: normal;
+    font-family: "Arima", system-ui;
+
 }

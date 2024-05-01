@@ -37,126 +37,104 @@
 
 .left-page{
     width: 45%;
-    background-color: rgba(213, 177, 213, 0.6);
+    background-color: #ffefef;
 }
 
 .right-page{
     width: 45%;
-    background-color: rgba(213, 177, 213, 0.6)
+    background-image: url(../images/new-bag.jpg);
+    background-size: cover;
 }
 
 
 
-.lettert{
+.t-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.lettere{
+.e-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.letterx{
+.x{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-bottom: 4%;
 }
 
-.lettert2{
+.t-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.letteri{
+.i{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
 
 
-.letterl{
+.l{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 2%;
-    padding-bottom: 1%;
 }
 
 
-.lettere2{
+.e-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 2%;
-    padding-bottom: 1%;
 }
 
 
-.letterw{
+.w{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 16%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.lettera{
+.a{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.letters{
+.s{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.lettert3{
+.t-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
-.lettere3{
+.e-1{
     align-items: center;
     justify-content: center;
     width: 10%;
     padding-left: 3.3%;
-    padding-top: 1%;
-    padding-bottom: 1%;
 }
 
 h3{
@@ -164,21 +142,21 @@ h3{
     padding-left: 7%;
     padding-bottom: -6%;
     font-family: 'JejuHallasan';
-font-weight: normal;
-font-style: normal;
+    font-weight: normal;
+    font-style: normal;
 }
 
 
 p{
-    font-size: 24;
+    font-size: 22;
     text-align: center;
-    margin-top: 1%;
+    margin-top: 4%;
     padding-left: 3%;
     padding-right: 3%;
     line-height: 140%;
     font-family: 'JejuHallasan';
-font-weight: normal;
-font-style: normal;
+    font-weight: normal;
+    font-style: normal;
 }
 
 p2{

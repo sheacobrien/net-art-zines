@@ -37,15 +37,12 @@
 
 .left-page{
     width: 45%;
-    background-color: rgba(213, 177, 213, 0.6)
-
-   
+    background-color: #ffefef;
 }
 
 .right-page{
     width: 45%;
-    background-color: rgba(213, 177, 213, 0.6)
-
+    background-color: #ffefef;
 }
 
 h1{
@@ -64,14 +61,14 @@ h2{
     font-family: 'JejuHallasan';
     font-weight: normal;
     font-style: normal;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 p{
 margin-top: -2.5%;
 padding-left: 3%;
 padding-right: 3%;
-color: rgb(255, 255, 255);
+color: #ffffff;
 font-family: 'JejuHallasan';
 font-weight: normal;
 font-style: normal;
@@ -79,5 +76,5 @@ font-style: normal;
 
 img{
     margin-left: 30px;
-    margin-top: 80px;
+    margin-top: 60px;
 }

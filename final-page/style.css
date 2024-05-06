@@ -37,7 +37,9 @@
 
 .left-page{
     width: 45%;
-   
+    background-image: url(../images/final.jpg);
+    background-size: cover;
+
 }
 
 .right-page{
@@ -47,3 +49,4 @@
 h1{
     text-align: center;
 }
+

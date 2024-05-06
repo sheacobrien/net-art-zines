@@ -40,3 +40,25 @@ background-color:antiquewhite;
 background-size: cover;
 }
 
+@media only screen and (max-width: 600px){
+    body{
+        display: flex;
+        align-items: center;
+        height: 100%;
+    }
+    
+    .container{
+    height: 33%;
+  }
+
+    .right a{
+        font-size: 1em;
+    }
+
+
+.left a{
+    font-size: 1em;
+
+}
+
+}

@@ -59,13 +59,17 @@ h2{
 }
 
 
-.image-one{
-
-    
+img{
+    padding-top: 25%;
 }
 
 
 
 img:hover{
     transform: scale(150%);
+    }
+
+
+    @media only screen and (max-width: 600px) {
+        body { background-color: lightblue; }
     }

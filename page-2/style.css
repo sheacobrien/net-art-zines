@@ -137,15 +137,6 @@
     padding-left: 3.3%;
 }
 
-h3{
-    font-size: 20;
-    padding-left: 7%;
-    padding-bottom: -6%;
-    font-family: 'JejuHallasan';
-    font-weight: normal;
-    font-style: normal;
-}
-
 
 p{
     font-size: 24;
@@ -155,16 +146,6 @@ p{
     padding-right: 3%;
     line-height: 130%;
     font-family: "Arima", system-ui;
-
-}
-
-p2{
-    font-size: 48;
-    padding-left: 4%;
-    margin-top: -1.5%;
-    padding-right: 3%;
-    font-family: "Arima", system-ui;
-
 }
 
 
@@ -194,6 +175,75 @@ p2{
     }
 
     .right-page{
-        width: 45%;
+        width: 65%;
     }
+
+p{
+    font-size: 8;
+}
+
+
+.t-1{
+    
+    width: 8%;
+}
+
+.e-1{
+    width: 8%;
+   
+}
+
+.x{
+   
+    width: 8%;
+  
+}
+
+.t-1{
+    
+    width: 8%;
+   
+}
+
+.i{
+    
+    width: 8%;
+}
+
+
+
+.l{
+    width: 6%;
+}
+
+
+.e-1{
+    
+    width: 6%;
+}
+
+
+.w{
+   
+    width: 6%;
+}
+
+.a{
+    
+    width: 6%;
+}
+
+.s{
+    
+    width: 6%;
+}
+
+.t-1{
+    width: 6%;
+}
+
+.e-1{
+    width: 6%;
+}
+
 }

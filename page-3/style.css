@@ -56,7 +56,7 @@
     }
     
     .container{
-    height: 40%;
+    height: 33%;
   }
 
     .right a{
@@ -65,7 +65,13 @@
 
     .left a{
         font-size: 1em;
-    
     }
 
+    .left-page{
+        width: 35%;
+    }
+
+    .right-page{
+        width: 35%;
+    }
 }

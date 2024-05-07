@@ -57,6 +57,7 @@
     
     .container{
     height: 33%;
+    position: relative;
   }
 
     .right a{
@@ -68,11 +69,11 @@
     }
 
     .left-page{
-        width: 40%;
+        width: 45%;
 
     }
 
     .right-page{
-        width: 40%;
+        width: 45%;
     }
 }

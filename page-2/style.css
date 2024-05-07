@@ -177,6 +177,7 @@ p2{
     
     .container{
     height: 33%;
+    position: relative;
   }
 
     .right a{
@@ -185,5 +186,14 @@ p2{
 
     .left a{
         font-size: 1em;
+    }
+
+    .left-page{
+        width: 45%;
+
+    }
+
+    .right-page{
+        width: 45%;
     }
 }

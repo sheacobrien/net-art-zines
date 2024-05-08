@@ -36,7 +36,7 @@
 
 .right-page{
     width: 45%;
-background-image: url(images/front.jpg);
+background-image: url(images/front-eye\ copy.jpg);
 background-size: cover;
 }
 
@@ -59,6 +59,10 @@ background-size: cover;
 .left a{
     font-size: 1em;
 
+}
+
+.right-page{
+    width: 95%;
 }
 
 }
